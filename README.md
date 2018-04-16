@@ -8,5 +8,5 @@ My job revolved around producer responsibilities, lead programmer responsibiliti
 
 I suggested that we use a finite state machine to handle the behavior for enemy AI.
 
-![Error](https://github.com/nagrimes/StarEaterGame/master/FSMimage.png)
+![Error](https://github.com/nagrimes/StarEaterGame/blob/master/FSMimage.png)
 
