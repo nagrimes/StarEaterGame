@@ -9,3 +9,8 @@ My job revolved around producer responsibilities, lead programmer responsibiliti
 I suggested that we use a finite state machine to handle the behavior for enemy AI.
 
 ![Error](https://github.com/nagrimes/StarEaterGame/blob/master/FSMimage1.png)
+
+### Additional mechanics designed:
+* Speed Boost
+* Resize by player consuming enemy and vice versa
+* Size displaying star size category
